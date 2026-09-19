@@ -1,5 +1,5 @@
 //Clase de 18-09-26
-public class Main {
+public class BooleanData {
 	public static void main(String[] args) {
 		boolean esMayorDeEdad = true;
 		boolean tienePermiso = false;
